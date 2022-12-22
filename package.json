@@ -1,0 +1,18 @@
+{
+    "name": "42-grupe-serlokas",
+    "version": "1.0.0",
+    "description": "Pirmasis projektas, bet antru uzvaziavimu",
+    "main": "index.js",
+    "scripts": {
+        "dev": "dead-server --host=localhost --port=4202",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "html"
+    ],
+    "author": "Rimantas (https://github.com/belauzas)",
+    "license": "MIT",
+    "devDependencies": {
+        "dead-server": "^1.0.9"
+    }
+}
